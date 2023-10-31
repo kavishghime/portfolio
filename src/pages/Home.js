@@ -30,7 +30,7 @@ function Home() {
                         color="text.primary"
                         gutterBottom
                     >
-                        Hello world! I am Kavish
+                        Hello! I am Kavish
                     </Typography>
                     <Typography variant="h5" align="center" color="text.secondary" paragraph>
                         SDK analyst and a Computer Science graduate with a love for software engineering & development!
