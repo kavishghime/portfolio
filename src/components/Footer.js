@@ -21,8 +21,8 @@ function Footer() {
                             variant="h7"
                             gutterBottom
                         >
-                            <CopyrightIcon />
-                            2023 Kavish Ghime
+                            {/* <CopyrightIcon /> */}
+                            2023 Kavish
                         </Typography>
                     </Toolbar>
                 </Container>
