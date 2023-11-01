@@ -11,6 +11,7 @@ import Proj4 from "../assets/DevSummit2020.PNG";
 import Proj5 from "../assets/slide.PNG";
 import Proj6 from "../assets/medalus.PNG";
 import Proj7 from "../assets/basketball.jpg";
+import Proj8 from "../assets/portfolioOne.PNG";
 import Url from "../components/Url";
 
 export const ProjectList = [
@@ -68,6 +69,15 @@ export const ProjectList = [
         skills: "Basketball ;)",
         link: Proj7,
         github: Proj7
+    },
+    {
+        name: "Portfolio",
+        subtext: "This website!",
+        description: "Built using React",
+        image: Proj8,
+        skills: "React, JavaScript, Material UI",
+        link: "https://kavishghime.github.io/portfolio/",
+        github: "https://github.com/kavishghime/portfolio.git"
     }
 
 ];
