@@ -79,5 +79,4 @@ export const ProjectList = [
         link: "https://kavishghime.github.io/portfolio/",
         github: "https://github.com/kavishghime/portfolio.git"
     }
-
 ];
