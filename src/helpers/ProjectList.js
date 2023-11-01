@@ -76,7 +76,7 @@ export const ProjectList = [
         description: "Built using React",
         image: Proj8,
         skills: "React, JavaScript, Material UI",
-        link: "https://kavishghime.github.io/portfolio/",
-        github: "https://github.com/kavishghime/portfolio.git"
+        link: "https://kavishghime.github.io/portfolio/"
+
     }
 ];
