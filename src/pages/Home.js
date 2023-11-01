@@ -80,7 +80,7 @@ function Home() {
                             <ListItem>
                                 <ListItemText
                                     primary="Tools & Platforms"
-                                    secondary="Git, GitHub, Visual Studio (Code, Windows, Mac), Xcode, Postman, Windows, MacOS"
+                                    secondary="Git, GitHub, Visual Studio (Code, Windows, Mac), Xcode, Postman, Windows, MacOS, Salesforce, OAuth"
                                 />
                             </ListItem>
                         </List>
