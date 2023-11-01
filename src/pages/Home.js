@@ -40,11 +40,11 @@ function Home() {
                             <LinkedIn fontSize="large" color="primary" />
                         </Link>
                     </Box>
-                    <Box align="center">
+                    {/* <Box align="center">
                         <Link href="https://docs.google.com/document/d/1G4RSmnMeT-wwHt9wD_28OuD8T9fBgrxVgzw4Q4d-iAc/edit?usp=sharing" target="_blank">
                             Resume
                         </Link>
-                    </Box>
+                    </Box> */}
                 </Container>
 
                 <Container sx={{ py: 8 }} maxWidth="md">
