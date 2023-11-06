@@ -74,7 +74,7 @@ function Home() {
                             <ListItem>
                                 <ListItemText
                                     primary="ArcGIS"
-                                    secondary="ArcGIS Maps SDK for JavaScript, ArcGIS Maps SDK for Swift, ArcGIS Maps SDK for .NET, ArcGIS REST API, ArcGIS Platform, ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online and ArcGIS API for Python"
+                                    secondary="ArcGIS Online, ArcGIS Maps SDK for JavaScript, ArcGIS Maps SDK for Swift, ArcGIS Maps SDK for .NET, ArcGIS Platform, ArcGIS REST API, ArcGIS Pro, ArcGIS Enterprise and ArcGIS API for Python"
                                 />
                             </ListItem>
                             <ListItem>
