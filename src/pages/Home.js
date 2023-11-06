@@ -33,7 +33,7 @@ function Home() {
                         Hello! I am Kavish
                     </Typography>
                     <Typography variant="h5" align="center" color="text.secondary" paragraph>
-                        SDK analyst and a Computer Science graduate with a love for software engineering & development!
+                        SDK analyst and a Computer Science graduate with a love for software engineering!
                     </Typography>
                     <Box align="center">
                         <Link href="http://www.linkedin.com/in/kavishghime" target="_blank">
