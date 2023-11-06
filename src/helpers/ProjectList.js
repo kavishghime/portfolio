@@ -12,6 +12,7 @@ import Proj5 from "../assets/slide.PNG";
 import Proj6 from "../assets/medalus.PNG";
 import Proj7 from "../assets/basketball.jpg";
 import Proj8 from "../assets/portfolioOne.PNG";
+import Proj9 from "../assets/CrowdSourcingPaper.PNG";
 import Url from "../components/Url";
 
 export const ProjectList = [
@@ -35,7 +36,7 @@ export const ProjectList = [
         name: "A Dynamic Mapping System for Italian Study Abroad Program",
         subtext: "Thesis for Master`s Degree in Computer Science",
         image: Proj3,
-        skills: "PHP, JavaScript, HTML, CSS, MySQL",
+        skills: "ArcGIS Online, PHP, JavaScript, HTML, CSS, MySQL",
         link: "https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A21323"
     },
     {
@@ -77,6 +78,15 @@ export const ProjectList = [
         image: Proj8,
         skills: "React, JavaScript, Material UI",
         link: "https://kavishghime.github.io/portfolio/"
+
+    },
+    {
+        name: "Crowd Sourcing a Story Map for Study Abroad Students",
+        subtext: "Acknowledged in the Paper publihsed by M.Trevor Shanklin (my Thesis Supervisor) for ESRI UC Conference",
+        description: "This project was my Master degree Thesis",
+        image: Proj9,
+        skills: "ArcGIS Online, PHP, JavaScript, HTML, CSS, MySQL",
+        link: "https://proceedings.esri.com/library/userconf/proc15/papers/79_688.pdf"
 
     }
 ];
