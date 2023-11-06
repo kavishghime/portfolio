@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b260f2ad.css",
-    "main.js": "/portfolio/static/js/main.d2944d7d.js",
+    "main.js": "/portfolio/static/js/main.f360956f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/slide.PNG": "/portfolio/static/media/slide.a526cbebbf7ea5a04b1f.PNG",
     "static/media/ReactCertificate1.PNG": "/portfolio/static/media/ReactCertificate1.86a5950ea4e287c7ddac.PNG",
     "static/media/DevSummit2020.PNG": "/portfolio/static/media/DevSummit2020.451f2f6aeb46a4c35edd.PNG",
     "static/media/basketball.jpg": "/portfolio/static/media/basketball.f2694b6490a735d8e9d8.jpg",
+    "static/media/CrowdSourcingPaper.PNG": "/portfolio/static/media/CrowdSourcingPaper.0c55e7675377486f0ec3.PNG",
     "static/media/ReactCertificate2.png": "/portfolio/static/media/ReactCertificate2.ae9202341aac98be5984.png",
     "static/media/portfolioOne.PNG": "/portfolio/static/media/portfolioOne.9e99730d1d66b4d559d8.PNG",
     "static/media/medalus.PNG": "/portfolio/static/media/medalus.99411efef7255fcd5eee.PNG",
     "index.html": "/portfolio/index.html",
     "main.b260f2ad.css.map": "/portfolio/static/css/main.b260f2ad.css.map",
-    "main.d2944d7d.js.map": "/portfolio/static/js/main.d2944d7d.js.map",
+    "main.f360956f.js.map": "/portfolio/static/js/main.f360956f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b260f2ad.css",
-    "static/js/main.d2944d7d.js"
+    "static/js/main.f360956f.js"
   ]
 }
