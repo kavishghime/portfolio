@@ -25,12 +25,11 @@ export const ProjectList = [
         github: "https://github.com/kGhime/confusion"
     },
     {
-        name: "Introduction to React using TypeScript",
-        subtext: "Certification",
-        image: Proj2,
-        skills: "React, JavaScript, TypeScript",
-        link: "https://www.credly.com/badges/eaf59626-62ce-49d1-afc7-3b6aba66ec33/public_url",
-        github: "https://github.com/kavishghime/License-Plate-Store-React-and-TypeScript.git"
+        name: "ArcGIS Runtime SDK for iOS",
+        subtext: "Spotlight Talk for Esri`s Developer Summit 2020",
+        image: Proj4,
+        skills: "ArcGIS Runtime SDK for iOS, Swift",
+        link: "https://youtu.be/NzFTRLO495g"
     },
     {
         name: "A Dynamic Mapping System for Italian Study Abroad Program",
@@ -40,11 +39,12 @@ export const ProjectList = [
         link: "https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A21323"
     },
     {
-        name: "ArcGIS Runtime SDK for iOS",
-        subtext: "Spotlight Talk for Esri`s Developer Summit 2020",
-        image: Proj4,
-        skills: "ArcGIS Runtime SDK for iOS, Swift",
-        link: "https://youtu.be/NzFTRLO495g"
+        name: "Introduction to React using TypeScript",
+        subtext: "Certification",
+        image: Proj2,
+        skills: "React, JavaScript, TypeScript",
+        link: "https://www.credly.com/badges/eaf59626-62ce-49d1-afc7-3b6aba66ec33/public_url",
+        github: "https://github.com/kavishghime/License-Plate-Store-React-and-TypeScript.git"
     },
     {
         name: "Esri Hack the Map 3: SLIDE",
