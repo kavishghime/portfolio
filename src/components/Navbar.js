@@ -102,7 +102,7 @@ function Navbar() {
                         </Typography> */}
 
                         <Typography variant="h6">
-                            ॐ
+                            {/* ॐ */}
                         </Typography>
 
                         <IconButton>
