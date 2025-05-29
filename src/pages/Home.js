@@ -62,7 +62,7 @@ function Home() {
                             <ListItem>
                                 <ListItemText
                                     primary="Languages"
-                                    secondary="JavaScript, Java, Swift"
+                                    secondary="JavaScript"
                                 />
                             </ListItem>
                             <ListItem>

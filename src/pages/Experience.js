@@ -162,7 +162,7 @@ function Experience() {
                             align="right"
                             variant="body2"
                             color="text.secondary">
-                            2017 - Present
+                            2017 - 2024
                         </TimelineOppositeContent>
                         <TimelineSeparator>
                             <TimelineDot color="success">
@@ -173,7 +173,7 @@ function Experience() {
                         <TimelineContent
                             sx={{ py: '12px', px: 2 }}>
                             <Typography variant="h5" component="span">
-                                ArcGIS SDK Programming Analyst - ESRI
+                                Support Analyst ArcGIS Developers APIs & SDKs - ESRI
                             </Typography>
                             <Typography variant="h6">Redlands, California</Typography>
                             <Typography>
@@ -206,6 +206,56 @@ function Experience() {
                             </Typography>
                         </TimelineContent>
                     </TimelineItem>
+
+
+
+                    <TimelineItem>
+                        <TimelineOppositeContent
+                            sx={{ m: 'auto 0' }}
+                            align="right"
+                            variant="body2"
+                            color="text.secondary">
+                            2024 - Present
+                        </TimelineOppositeContent>
+                        <TimelineSeparator>
+                            <TimelineDot color="success">
+                                <Work />
+                            </TimelineDot>
+                            <TimelineConnector />
+                        </TimelineSeparator>
+                        <TimelineContent
+                            sx={{ py: '12px', px: 2 }}>
+                            <Typography variant="h5" component="span">
+                                Product Engineer - ESRI
+                            </Typography>
+                            <Typography variant="h6">Redlands, California</Typography>
+                            <Typography>
+                                <List>
+                                    <ListItem>
+                                    Work as part of a development team to build, test, and release Field Maps app (Android and iOS devices) and web
+                                    apps.
+                                    </ListItem>
+                                    <ListItem>
+                                    Work with product teams across ArcGIS to influence upcoming development.
+                                    </ListItem>
+                                    <ListItem>
+                                    Evaluate and provide feedback on new software designs through design and implementation reviews.
+                                    </ListItem>
+                                    <ListItem>
+                                    Perform in-field testing and customer workflow evaluation to ensure product quality and release readiness.
+                                    </ListItem>
+                                    <ListItem>
+                                    Write conceptual topics, blog articles, and step-by-step tutorials geared towards GIS staff or mobile workers to aid
+                                    in the deployment of our apps.
+                                    </ListItem>
+                                    
+                                </List>
+                            </Typography>
+                        </TimelineContent>
+                    </TimelineItem>
+
+
+
 
                 </Timeline>
 
