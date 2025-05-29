@@ -136,7 +136,7 @@ function Experience() {
                         <TimelineContent
                             sx={{ py: '12px', px: 2 }}>
                             <Typography variant="h5" component="span">
-                                Graduate Assistant - LARC LABS San Diego State University
+                                Graduate Assistant - LARC LABS San Diego State University Research Foundation
                             </Typography>
                             <Typography variant="h6">San Diego, California</Typography>
                             <Typography>
