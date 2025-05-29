@@ -22,7 +22,7 @@ function Footer() {
                             gutterBottom
                         >
                             {/* <CopyrightIcon /> */}
-                            2023 Kavish
+                            --
                         </Typography>
                     </Toolbar>
                 </Container>
